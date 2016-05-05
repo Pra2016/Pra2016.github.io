@@ -56,6 +56,14 @@ footer {
     -moz-border-radius: 20px;
 }
 
+.modal-dialog {
+    position: absolute;
+    left: 50%;
+    margin-left: -280px;
+    top: 50%;
+    margin-top: -157px;
+}
+
 .jumbotron h1 {
     margin-top: 0px;
     margin-bottom: 50px;
